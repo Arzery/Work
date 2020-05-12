@@ -65,6 +65,9 @@ header .conteiner .button{
 	
 	font-size: 15px;
 }
+header .conteiner .button:hover{
+	background: #ecb91c;
+}
 section{
 	color: #000;
 
@@ -150,13 +153,14 @@ input{
 	
 	font-size: 15px;
 
-
-	
-
+}
+.offercontent form .button:hover{
+background: #ecb91c;
 }
 .offercontent{
 	margin-bottom: 110px
 }
+
 footer .conteiner{
 	display: flex;
 	justify-content: center;
