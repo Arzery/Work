@@ -29,6 +29,7 @@ div.text h2 span{
 }
 .text p{
 	font-size: 16px;
+	line-height: 1.6em
 }
 .plane{ 
 	display: block;
@@ -153,6 +154,9 @@ input{
 	
 	font-size: 15px;
 
+}
+.color{
+	margin-top: 40px;
 }
 .offercontent form .button:hover{
 background: #ecb91c;
