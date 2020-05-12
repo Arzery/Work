@@ -1,0 +1,178 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+	margin: 0;
+	padding: 0;
+
+}
+.conteiner{
+	display: block;
+	width: 1170px;
+	margin: 0 auto;
+}
+.header{
+	
+	background: url(../img/header.jpg) no-repeat center top / cover;
+	height: 795px;
+	color:#fff;
+}
+.logo{
+
+	
+	
+}
+.text h2{
+	width: 563px;
+	font-size: 37px;
+}
+div.text h2 span{
+	font-size: 59px;
+}
+.text p{
+	font-size: 16px;
+}
+.plane{ 
+	display: block;
+	height: 610px;
+	width: 610px;
+	background: url('../img/plane.png');
+	margin-left: 0;
+	margin-bottom: 143px;
+	
+	
+}
+.offer {
+	display: flex;
+	height: 500px;
+	
+	
+}
+.text{
+	margin-top: 100px;
+}
+header .conteiner .button{
+	font-family: 'Montserrat';
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #000;
+	
+	
+	width: 219px;
+	height: 58px;
+	
+	background: #ffd429;
+	
+	font-size: 15px;
+}
+section{
+	color: #000;
+
+}
+.h2,h3{
+	
+	display: flex;
+  
+  justify-content: center
+}
+section h2{
+	margin-top: 100px;
+	font-size: 30px;
+	margin-bottom: 66PX;
+}
+h3{	
+	
+	font-size: 15px;
+}
+
+.nav{
+
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: space-around;
+	margin-bottom: 117px;
+}
+.nav p{
+
+	font-size: 15px;
+}
+.nav .rewind{
+	margin-top: 6px;
+
+}
+.bg .conteiner h2{
+	margin-bottom: 60PX;
+
+	display: flex;
+	justify-content: center;
+	
+
+	
+}
+.bg{
+	background: url(../img/section.jpg);
+}
+
+.offercontent{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	
+	
+}
+
+form{
+	font-family: 'Ubuntu';
+	font-size: 15px;
+
+}
+input{
+	width: 343px;
+	height: 48px;
+	font-family: 'Ubuntu'
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+.offercontent form .button{
+	font-family: 'Montserrat';
+	justify-content: center;
+	display: flex;
+	text-decoration: none;
+	
+	align-items: center;
+	color: #000;
+	width: 343px;
+	height: 48px;
+	
+	background: #ffd429;
+	
+	font-size: 15px;
+
+
+	
+
+}
+.offercontent{
+	margin-bottom: 110px
+}
+footer .conteiner{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 143px;
+	
+}
+footer{
+	background: url(../img/footer.jpg);
+}
+.footer{
+	
+}
+footer p{
+	color: #fff;
+	font-size: 14px;
+
+
+}
