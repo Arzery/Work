@@ -29,7 +29,7 @@ div.text h2 span{
 }
 .text p{
 	font-size: 16px;
-	line-height: 24px
+	line-height: 1.6em
 }
 .plane{ 
 	display: block;
@@ -63,7 +63,7 @@ header .conteiner .button{
 	height: 58px;
 	
 	background: #ffd429;
-	
+	transition: all 0.5s ease;
 	font-size: 15px;
 }
 header .conteiner .button:hover{
@@ -116,6 +116,7 @@ h3{
 }
 .bg{
 	background: url(../img/section.jpg);
+	height: 600px; 
 }
 
 .offercontent{
@@ -151,7 +152,7 @@ input{
 	height: 48px;
 	
 	background: #ffd429;
-	
+	transition: all 0.5s ease;
 	font-size: 15px;
 
 }
